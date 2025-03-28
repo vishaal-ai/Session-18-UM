@@ -1,4 +1,4 @@
-# Session 18
+# Session-18-UM
 
 Weather Forecast Dashboard using async/await, error handling, and parallel API requests.
 
